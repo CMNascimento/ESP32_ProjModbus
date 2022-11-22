@@ -6,7 +6,7 @@ O programa comportasse da seguinte maneira:
 
 I) O LED pode ser acionado manualmento através do supervisório;
 
-II) O acionamento pode ser realizado através de forma automática através de um valor selecionado da tensão obtida no fotoresistor. 
+II) O acionamento pode ser realizado de forma automática através de um valor selecionado da tensão obtida no fotoresistor. 
 
 Imagem do supervisório no ScadaBR:
 
