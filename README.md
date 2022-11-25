@@ -1,6 +1,6 @@
 # ESP32_ProjModbus
 
-Projeto realizado partindo do exemplo de comunicação do Modbus do ESP-IDF. Para o desenvolvimento do projeto foram utilizados uma ESP32, um LED, um fotoresistor, resistores do tipo PTH(valores) e um supervisório desenvolvido no ScadaBR. 
+Projeto realizado partindo do exemplo de comunicação do Modbus do ESP-IDF. Para o desenvolvimento do projeto foram utilizados uma ESP32, um LED vermelho, um fotoresistor, resistores do tipo PTH(220ohms em série com o LED, e 100k ohms e 10k ohms em série com o fotoresistor), e um supervisório desenvolvido no ScadaBR. 
 
 O programa comportasse da seguinte maneira:
 
