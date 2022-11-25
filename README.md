@@ -11,3 +11,6 @@ II) O acionamento pode ser realizado de forma automática através de um valor s
 Imagem do supervisório no ScadaBR:
 
 ![supervisorio](https://user-images.githubusercontent.com/89278224/203318462-56f15358-b1f5-4891-800e-13ee09660360.png)
+
+Versão do ESP-IDF: 4.4.2
+
